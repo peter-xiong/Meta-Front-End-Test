@@ -1,1 +1,1 @@
-I'm updating this file.
+I'm updating test.txt with a new message from the Terminal.
